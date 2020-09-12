@@ -12,4 +12,4 @@
 
 
 
-有任何问题，都可以[发issue讨论](https://github.com/zmt0516/JavaScript-Language-Programming/issues)。
+有任何问题，都可以[发issue讨论](../../issues)。
